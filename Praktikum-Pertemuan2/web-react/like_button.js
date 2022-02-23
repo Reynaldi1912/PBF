@@ -4,11 +4,11 @@ function LikeButton(){
     return e(
         'button',
         {
-            onclick: () => alert('berhasil')
+            onClick: () => alert('berhasil')
         },
         'Like'
-    )
+    );
 }
 
 const domContainer = document.querySelector('#like_button_container');
-ReactDom.render(e(LikeButton), domContainer)
+ReactDOM.render(e(LikeButton), domContainer)
