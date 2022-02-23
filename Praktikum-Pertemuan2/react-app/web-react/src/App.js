@@ -14,7 +14,7 @@ function App() {
         </h1>
         <a
           className="App-link"
-          href="https://github.com/Reynaldi1912"
+          href="https://github.com/Reynaldi1912/React-JS"
           target="_blank"
           rel="noopener noreferrer"
         >
