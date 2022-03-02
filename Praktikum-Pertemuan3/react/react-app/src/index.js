@@ -5,7 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import HelloComponent from './component/HelloComponent'; 
 import List from './List';
+import Header from './Header';
 import Test from './Test';
+import Footer from './Footer';
 import Login from './component/loginComponent'; 
 
 
