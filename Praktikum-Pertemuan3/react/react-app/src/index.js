@@ -9,6 +9,9 @@ import Header from './Header';
 import Test from './Test';
 import Footer from './Footer';
 import Login from './component/loginComponent'; 
+import loginComponent from './component/loginComponent';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 

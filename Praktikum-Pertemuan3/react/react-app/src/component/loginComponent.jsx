@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from '../Header';
 import Footer from '../Footer';
 import List from '../List';
@@ -37,10 +36,10 @@ class loginComponent extends Component {
              </div>
          </form> 
          <br/><br/><br/>
-         <center><List /></center>
+         {/* <center><List /></center>
          
 
-    <Footer judul='Halaman Footer' nama='Reynaldi' />
+    <Footer judul='Halaman Footer' nama='Reynaldi' /> */}
 
     </div>
     );
