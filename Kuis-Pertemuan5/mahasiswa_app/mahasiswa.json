@@ -1,0 +1,39 @@
+{
+  "mahasiswa": [
+    {
+      "id": 140823455,
+      "nama": "Reynaldi Ramadhani",
+      "hp": "08123456789",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "jl.Gondang Ds.Krasak Lumajang",
+      "NIM": "1941720142"
+    },
+    {
+      "id": 140823457,
+      "nama": "Dimasqi ALif",
+      "hp": "081234578",
+      "angkatan": "2018",
+      "status": "Aktif",
+      "alamat": "Probolinggo",
+      "NIM": "129189712"
+    },
+    {
+      "id": 140823458,
+      "nama": "Mamat",
+      "hp": "0898918911",
+      "angkatan": "2017",
+      "status": "Drop Out",
+      "alamat": "Malang",
+      "NIM": "192983983"
+    },
+    {
+      "id": "1291829182",
+      "nama": "Meda",
+      "hp": "980981020918",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "alamat": "Lumajang"
+    }
+  ]
+}
