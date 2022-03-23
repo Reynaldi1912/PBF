@@ -2,16 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Ec from './Ecommerce'
 import Pp from './ParamsExample';
 import Ne from './NestingExample';
 import Auth from './AuthExample';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Auth />
+    <Ec />
   </React.StrictMode>,
   document.getElementById('root')
 );
