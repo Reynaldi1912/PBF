@@ -69,7 +69,7 @@ class Mahasiswa extends Component{
                             <div className="form-group row">
                                 <label htmlFor="id" className="col-sm-2 col-form-label">NIM</label>
                                 <div className="col-sm-10">
-                                    <input type="number" className="form-control" id="id" name="id" onChange={this.handleTambahMahasiswa} />
+                                    <input type="number" className="form-control"    />
                                 </div>
                             </div>
                             <div className="form-group row">

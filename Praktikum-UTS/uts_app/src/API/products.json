@@ -1,0 +1,74 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "nama": "TV LED Samsung",
+        "harga": 3599000,
+        "stok" : 11,
+        "gambar":"https://s2.bukalapak.com/img/2243819813/large/TV_LED_Samsung_32_inch_UA32N4300_USB_HD_Smart_TV_QUAD_CORE_H.jpg"
+      },
+      {
+        "id": 2,
+        "nama": "TV LED LG",
+        "harga": 4799000,
+        "stok" : 25,
+        "gambar":"https://www.lg.com/my/images/tvs/42lb5610/gallery/42LB5610_large_00.jpg"
+      },
+      {
+        "id": 3,
+        "nama": "TV LED Sony",
+        "harga": 1999000,
+        "stok" : 25,
+        "gambar":"https://www.rumahreview.com/wp-content/uploads/2014/04/Sony-Bravia-KLV-40R452A-LED-TV-40-Full-HD_2.jpg"
+      },
+      {
+        "id": 4,
+        "nama": "TV LED Sharp",
+        "harga": 6000000,
+        "stok" : 25,
+        "gambar":"https://cf.shopee.co.id/file/9a01b09b9608aec8101339db965b0e9f"
+      },
+      {
+        "id": 5,
+        "nama": "TV LED Panasonic",
+        "harga": 2200000,
+        "stok" : 10,
+        "gambar":"https://images.tokopedia.net/img/cache/700/product-1/2020/2/18/111190100/111190100_eb03a431-1370-47ec-9aea-9c0aaa3f3dae_891_891.jpg"
+      },
+      {
+        "id": 6,
+        "nama": "TV LED Polytron",
+        "harga": 3099000,
+        "stok" : 21,
+        "gambar":"https://id-test-11.slatic.net/p/448bc63113c07459c278e3ba95f2039a.jpg"
+      },
+      {
+        "id": 7,
+        "nama": "TV LED Philips",
+        "harga": 900000,
+        "stok" : 45,
+        "gambar":"https://3.bp.blogspot.com/-ErHTlBXaPcs/WBnM_0cnEuI/AAAAAAAAAzI/RpKYVeQ0DE4WGNQrIVHjpzoDJsOQNCJhwCLcB/s1600/Review%2Bdan%2BHarga%2BTV%2BLED%2BPhilips%2B32PHA4100%2BSlim%2B32%2BInch.JPG"
+      },
+      {
+        "id": 8,
+        "nama": "TV LED Xiaomi",
+        "harga": 7999000,
+        "stok" : 32,
+        "gambar":"https://i01.appmifile.com/webfile/globalimg/Iris/32-2.jpg"
+      },
+      {
+        "id": 9,
+        "nama": "TV LED Toshiba",
+        "harga": 2100000,
+        "stok" : 27,
+        "gambar":"https://3.bp.blogspot.com/-aRF4res6VvY/UwE_u8jjCjI/AAAAAAAAACA/X7_mdAWObS4/s1600/toshiba-1780-59676-2-zoom.jpg"
+      },
+      {
+        "id": 10,
+        "nama": "TV LCD TCL",
+        "harga": 1200000,
+        "stok" : 13,
+        "gambar":"https://s0.bukalapak.com/uploads/content_attachment/f29464b7e258b050e2ccc2b5/original/TCL.jpg"
+      }
+    ]
+  }

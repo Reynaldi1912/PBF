@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "nama": "Lenovo Ideapad Gaming 3",
+        "harga": "Rp.12.999.000",
+        "stok" : 25,
+        "gambar":"https://gadgetren.com/wp-content/uploads/2020/06/Lenovo-IdeaPad-Gaming-3i-Feature-e1593174582202.jpg"
+      },
+      {
+        "id": 2,
+        "nama": "Lenovo Ideapad Gaming 3",
+        "harga": "Rp.12.999.000",
+        "stok" : 25,
+        "gambar":"https://gadgetren.com/wp-content/uploads/2020/06/Lenovo-IdeaPad-Gaming-3i-Feature-e1593174582202.jpg"
+      },
+      {
+        "id": 3,
+        "nama": "Lenovo Ideapad Gaming 3",
+        "harga": "Rp.12.999.000",
+        "stok" : 25,
+        "gambar":"https://gadgetren.com/wp-content/uploads/2020/06/Lenovo-IdeaPad-Gaming-3i-Feature-e1593174582202.jpg"
+      },
+      {
+        "id": 4,
+        "nama": "Lenovo Ideapad Gaming 3",
+        "harga": "Rp.12.999.000",
+        "stok" : 25,
+        "gambar":"https://gadgetren.com/wp-content/uploads/2020/06/Lenovo-IdeaPad-Gaming-3i-Feature-e1593174582202.jpg"
+      },
+      {
+        "id": 5,
+        "nama": "Lenovo Ideapad Gaming 3",
+        "harga": "Rp.12.999.000",
+        "stok" : 25,
+        "gambar":"https://gadgetren.com/wp-content/uploads/2020/06/Lenovo-IdeaPad-Gaming-3i-Feature-e1593174582202.jpg"
+      }
+    ]
+  }
