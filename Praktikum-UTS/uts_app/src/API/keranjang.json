@@ -1,3 +1,16 @@
 {
-  "keranjang": []
+  "keranjang": [
+    {
+      "id": 3,
+      "nama": "TV LED Sony",
+      "harga": 1999000,
+      "qty": 2
+    },
+    {
+      "id": 5,
+      "nama": "TV LED Panasonic",
+      "harga": 2200000,
+      "qty": 1
+    }
+  ]
 }

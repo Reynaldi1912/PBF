@@ -28,7 +28,7 @@ class BlogPost extends Component{
                 }
             }
             ambilDataDariServerAPI = () => {
-                fetch(`http://localhost:3001/posts?_sort=id&_order=desc`)
+                fetch(`http://localhost:3002/posts?_sort=id&_order=desc`)
                     .then(response => response.json())
                     .then(jsonHasilAmbilDariAPI =>{
                         this.setState({
@@ -37,7 +37,7 @@ class BlogPost extends Component{
                     })
             }
             componentDidMount(){
-                fetch('http://localhost:3001/posts')
+                fetch('http://localhost:3002/posts')
                 // fetch('https://jsonplaceholder.typicode.com/posts')
                     .then(response => response.json())
                     .then(jsonHasilAmbilDariAPI => {
@@ -63,7 +63,7 @@ class BlogPost extends Component{
                 });
             }
             handleTombolSimpan=()=>{
-                fetch('http://localhost:3001/posts',{
+                fetch('http://localhost:3002/posts',{
                     method:'post',
                     headers:{
                         'Accept': 'application/json',
