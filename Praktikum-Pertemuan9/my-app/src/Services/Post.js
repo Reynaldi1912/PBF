@@ -10,7 +10,7 @@ const PostAPI = (path, data) => {
             },
             body: JSON.stringify(data)                // Kirimkan ke body request untuk data artikel yang akan ditambahkan (insert)
         })
-            .then((result :Response ) => {                  
+            .then((result) => {                  
                 resolve(result);                      // Jika sukses menerima response dari server maka resolv response ke user
             }, (err) => {
                 reject(err);                          // Jika terjadi error dari server (server down, dll)
